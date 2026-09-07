@@ -1,7 +1,7 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.5.0/LarpClient-2.5.0.zip",
-  "sha256": "DD87DC7067ACABEE67C907DF0456239E699BFB91D01BE793AD112454E2CDF730",
-  "notes": "Eigene Resource Packs und Shader werden jetzt auf der Packs-Seite aufgelistet, mit Ein/Aus und Entfernen. Vorher waren hinzugefuegte Packs unsichtbar. Credits ueberarbeitet, Novax als Tester ergaenzt.",
+  "version": "2.6.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.6.0/LarpClient-2.6.0.zip",
+  "sha256": "33EA712A82D216BBDAECAF0993F97D5167A998CCBEE9398FF3E4B23D8B558D60",
+  "notes": "Credits komplett ueberarbeitet: Abschnitte nach Disziplin mit Rolle, Namen und Beschreibung, dazu die Projekte und Mods, auf denen Larp Client aufbaut.",
   "mandatory": false
 }
