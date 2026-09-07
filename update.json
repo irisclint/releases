@@ -1,7 +1,7 @@
 {
-  "version": "2.4.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.4.0/LarpClient-2.4.0.zip",
-  "sha256": "56067A4BCADF9AECE233F1B9CAFC30A28176656F326FA926DF64337D82447F9B",
-  "notes": "Instanzen lassen sich jetzt bearbeiten (Name, Minecraft-Version, Loader) ohne Welten zu verlieren. Versionsanzeige korrigiert.",
+  "version": "2.5.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.5.0/LarpClient-2.5.0.zip",
+  "sha256": "DD87DC7067ACABEE67C907DF0456239E699BFB91D01BE793AD112454E2CDF730",
+  "notes": "Eigene Resource Packs und Shader werden jetzt auf der Packs-Seite aufgelistet, mit Ein/Aus und Entfernen. Vorher waren hinzugefuegte Packs unsichtbar. Credits ueberarbeitet, Novax als Tester ergaenzt.",
   "mandatory": false
 }
