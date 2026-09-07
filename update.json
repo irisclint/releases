@@ -1,7 +1,7 @@
 {
   "version": "2.7.0",
   "url": "https://github.com/larp-client/releases/releases/download/v2.7.0/LarpClient-2.7.0.zip",
-  "sha256": "DAB4E19891767E41F3D407C5451A0AA187C9B45E162A804252FA76FB600B4E2F",
+  "sha256": "C015FE314ADB63DA99A03118B0FA46000C43518E63DE71C2ACB7655C3DDEFA20",
   "notes": "The launcher is now always in English regardless of your Windows language. Updates moved out of About onto their own page, and the game will not start while an update is waiting.",
   "mandatory": false
 }
