@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.3.0/LarpClient-2.3.0.zip",
-  "sha256": "F3F61F352552328BADA37586C55A76C2F7EAA08B4FAE9EDAB2AC810F86CBAA97",
-  "notes": "Erste Testversion: In-Game-Menue (Rechte Shift), Rang-Nametags, FPS/Ping/Koordinaten-HUD, Skin- und Cape-Wechsel.",
+  "version": "2.4.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.4.0/LarpClient-2.4.0.zip",
+  "sha256": "FCA16A2BC4AC475F9C092BD975ADC9C4A6A917DB2687733033D5732A62F9E2C9",
+  "notes": "Instanzen lassen sich jetzt bearbeiten (Name, Minecraft-Version, Loader) ohne Welten zu verlieren. Versionsanzeige korrigiert.",
   "mandatory": false
 }
