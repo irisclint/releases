@@ -1,7 +1,7 @@
 {
   "version": "2.4.0",
   "url": "https://github.com/larp-client/releases/releases/download/v2.4.0/LarpClient-2.4.0.zip",
-  "sha256": "FCA16A2BC4AC475F9C092BD975ADC9C4A6A917DB2687733033D5732A62F9E2C9",
+  "sha256": "56067A4BCADF9AECE233F1B9CAFC30A28176656F326FA926DF64337D82447F9B",
   "notes": "Instanzen lassen sich jetzt bearbeiten (Name, Minecraft-Version, Loader) ohne Welten zu verlieren. Versionsanzeige korrigiert.",
   "mandatory": false
 }
