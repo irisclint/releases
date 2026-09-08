@@ -1,1 +1,7 @@
-{}
+{
+  "testbanaccount": {
+    "reason": "Testing the publish button",
+    "name": "testbanaccount",
+    "banned": "2026-09-08"
+  }
+}
