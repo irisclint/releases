@@ -1,7 +1,7 @@
 {
-  "version": "2.13.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.13.0/LarpClient-2.13.0.zip",
-  "sha256": "F0291201E2C97EEAFFE487A229AE883C10806EE423A8D4F9BF842A2274410199",
-  "notes": "Your own name tag now shows again in third person. A ban now closes the whole client with a screen giving the reason and where to appeal, and it takes effect within a minute instead of on the next restart.",
+  "version": "2.14.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.14.0/LarpClient-2.14.0.zip",
+  "sha256": "2313EE64885F14E767F1D2396E11CF26CEF5C242B150BA82E3BAFEF5BD80A166",
+  "notes": "Ban checks now read GitHub's API before launching instead of the cached file, so a ban blocks the game straight away rather than minutes later.",
   "mandatory": false
 }
