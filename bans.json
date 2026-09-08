@@ -1,7 +1,7 @@
 {
-  "freshcheck": {
-    "reason": "API freshness probe",
-    "name": "freshcheck",
+  "proofaccount": {
+    "reason": "fresh path proof",
+    "name": "proofaccount",
     "banned": "2026-09-08"
   }
 }
