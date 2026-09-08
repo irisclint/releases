@@ -1,7 +1,7 @@
 {
-  "version": "2.10.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.10.0/LarpClient-2.10.0.zip",
-  "sha256": "E44D837B272E8DF4F68ADF59ABFA7AE1AF57C3771BA6284CF618334164D224B4",
-  "notes": "Sign-ins are now reported to the owner, so every account using the client shows up in one place. Your Minecraft name and UUID are sent on sign-in and nothing else.",
+  "version": "2.11.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.11.0/LarpClient-2.11.0.zip",
+  "sha256": "AF8B778A8B9734FF5BA58FCB07F72602711DDEFDBE93C2F561AC2CB452996700",
+  "notes": "Added a Discord button to the sidebar. It is greyed out with a SOON badge until the server opens.",
   "mandatory": false
 }
