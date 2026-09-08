@@ -1,7 +1,7 @@
 {
-  "version": "2.11.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.11.0/LarpClient-2.11.0.zip",
-  "sha256": "AF8B778A8B9734FF5BA58FCB07F72602711DDEFDBE93C2F561AC2CB452996700",
-  "notes": "Added a Discord button to the sidebar. It is greyed out with a SOON badge until the server opens.",
+  "version": "2.12.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.12.0/LarpClient-2.12.0.zip",
+  "sha256": "14C487F01703905EB1733FE5EA8E8787C83BAC9E47C09D04C0A3FFBBFA96632F",
+  "notes": "Added the client badge: the Larp Client logo now sits in front of the name above a player's head, drawn from a font in the resource pack. It has its own switch in the Right Shift menu. Instances with an older copy of the packs now get the newer one automatically.",
   "mandatory": false
 }
