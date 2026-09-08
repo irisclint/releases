@@ -1,7 +1,7 @@
 {
-  "version": "2.7.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.7.0/LarpClient-2.7.0.zip",
-  "sha256": "C015FE314ADB63DA99A03118B0FA46000C43518E63DE71C2ACB7655C3DDEFA20",
-  "notes": "The launcher is now always in English regardless of your Windows language. Updates moved out of About onto their own page, and the game will not start while an update is waiting.",
+  "version": "2.8.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.8.0/LarpClient-2.8.0.zip",
+  "sha256": "5F128014B8D1D29EBE278D7308B5C12DEF0F751E115EC0886F266D82F5B3785B",
+  "notes": "First start now asks whether to create a desktop shortcut, and Settings has a switch for it. Added an owner-only Admin page with the accounts seen on this installation and a published ban list: a banned account cannot start the game.",
   "mandatory": false
 }
