@@ -1,1 +1,7 @@
-{}
+{
+  "freshcheck": {
+    "reason": "API freshness probe",
+    "name": "freshcheck",
+    "banned": "2026-09-08"
+  }
+}
