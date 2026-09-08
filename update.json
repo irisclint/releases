@@ -1,7 +1,7 @@
 {
-  "version": "2.12.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.12.0/LarpClient-2.12.0.zip",
-  "sha256": "14C487F01703905EB1733FE5EA8E8787C83BAC9E47C09D04C0A3FFBBFA96632F",
-  "notes": "Added the client badge: the Larp Client logo now sits in front of the name above a player's head, drawn from a font in the resource pack. It has its own switch in the Right Shift menu. Instances with an older copy of the packs now get the newer one automatically.",
+  "version": "2.13.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.13.0/LarpClient-2.13.0.zip",
+  "sha256": "F0291201E2C97EEAFFE487A229AE883C10806EE423A8D4F9BF842A2274410199",
+  "notes": "Your own name tag now shows again in third person. A ban now closes the whole client with a screen giving the reason and where to appeal, and it takes effect within a minute instead of on the next restart.",
   "mandatory": false
 }
