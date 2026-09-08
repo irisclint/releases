@@ -1,7 +1,7 @@
 {
-  "version": "2.8.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.8.0/LarpClient-2.8.0.zip",
-  "sha256": "5F128014B8D1D29EBE278D7308B5C12DEF0F751E115EC0886F266D82F5B3785B",
-  "notes": "First start now asks whether to create a desktop shortcut, and Settings has a switch for it. Added an owner-only Admin page with the accounts seen on this installation and a published ban list: a banned account cannot start the game.",
+  "version": "2.9.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.9.0/LarpClient-2.9.0.zip",
+  "sha256": "DD9CF923F194B5ECD8FDCEBEAEECC1E0EFF0699CF425638DFAB2683734937D32",
+  "notes": "Mods can be checked for newer builds and updated from the Mods page. The in-game menu is much bigger: CPS, facing, speed, biome, in-game time, players online, server, session time, memory and potion effects, clickable rows and a HUD corner picker. Sharper taskbar icon. Bans now carry a reason and date and take effect immediately.",
   "mandatory": false
 }
