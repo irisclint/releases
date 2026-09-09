@@ -1,7 +1,7 @@
 {
-  "version": "2.16.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.16.0/LarpClient-2.16.0.zip",
-  "sha256": "F1ADBBE0695BC7A725B394F32CA866AE6AA0D3B7E29D4E65C686B0890654E98E",
-  "notes": "Fixed the crash that killed Minecraft when you opened the menu with Right Shift. The menu is half the size, sits on frosted glass and uses switches instead of number keys. The HUD can now be dragged anywhere on screen instead of being stuck in a corner. Gamma Utils (Fullbright) and Freelook are part of the default mod set.",
+  "version": "2.17.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.17.0/LarpClient-2.17.0.zip",
+  "sha256": "CDA210B611EC1F69237C3AFABAB42618363FD580C8411D7BD8DBF9C71F5629D7",
+  "notes": "Every HUD readout is now its own see-through panel that can be dragged on its own, instead of one block in a corner. The menu is more transparent as well. Arrange them from the bottom row of the Right Shift menu.",
   "mandatory": false
 }
