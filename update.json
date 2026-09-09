@@ -1,7 +1,7 @@
 {
-  "version": "2.14.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.14.0/LarpClient-2.14.0.zip",
-  "sha256": "2313EE64885F14E767F1D2396E11CF26CEF5C242B150BA82E3BAFEF5BD80A166",
-  "notes": "Ban checks now read GitHub's API before launching instead of the cached file, so a ban blocks the game straight away rather than minutes later.",
+  "version": "2.15.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.15.0/LarpClient-2.15.0.zip",
+  "sha256": "31666C6D4D4AE7F6D39700ACF6F4619306FEFBFF3CDC3A0E6EE4891261AF6961",
+  "notes": "The in-game menu and the resource packs now update in instances that already had them, so everyone gets the current menu, their own name tag and the client badge instead of whatever shipped on day one. The launcher no longer redraws the game log while you are playing, which was making it eat memory and stop responding during long sessions.",
   "mandatory": false
 }
