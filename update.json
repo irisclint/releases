@@ -1,7 +1,7 @@
 {
   "version": "3.0.0",
   "url": "https://github.com/irisclint/releases/releases/download/v3.0.0/IrisClient-3.0.0.zip",
-  "sha256": "50B41AC7BD1E1B30125C82EA812D2A04043BFA2C5D8FCBB88B45853280382C5C",
+  "sha256": "102CB7C4C8721EF6F4AE694977DB307F802ABE29A220D51CA7BACBA172CFBB08",
   "notes": "- New name, new mark, new look. The launcher, the in-game menu and the resource pack all carry it.\n- A new texture pack: blocks, items, the interface and every mod GUI, in one pack instead of two.\n- An update now opens a window that tells you what changed before you install it.\n- While an update downloads you can see how far along it is, how fast it is going, and how much longer it has to run.\n- Your accounts, instances, worlds, mods and settings come across on their own. There is nothing to reinstall.\n- The old menu jar and the old resource packs are taken out of every instance, so nothing is loaded twice.",
   "mandatory": false
 }
