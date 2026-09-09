@@ -1,7 +1,7 @@
 {
-  "version": "2.15.0",
-  "url": "https://github.com/larp-client/releases/releases/download/v2.15.0/LarpClient-2.15.0.zip",
-  "sha256": "31666C6D4D4AE7F6D39700ACF6F4619306FEFBFF3CDC3A0E6EE4891261AF6961",
-  "notes": "The in-game menu and the resource packs now update in instances that already had them, so everyone gets the current menu, their own name tag and the client badge instead of whatever shipped on day one. The launcher no longer redraws the game log while you are playing, which was making it eat memory and stop responding during long sessions.",
+  "version": "2.16.0",
+  "url": "https://github.com/larp-client/releases/releases/download/v2.16.0/LarpClient-2.16.0.zip",
+  "sha256": "F1ADBBE0695BC7A725B394F32CA866AE6AA0D3B7E29D4E65C686B0890654E98E",
+  "notes": "Fixed the crash that killed Minecraft when you opened the menu with Right Shift. The menu is half the size, sits on frosted glass and uses switches instead of number keys. The HUD can now be dragged anywhere on screen instead of being stuck in a corner. Gamma Utils (Fullbright) and Freelook are part of the default mod set.",
   "mandatory": false
 }
