@@ -1,7 +1,25 @@
 {
-  "version": "3.1.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.1.0/IrisClient-3.1.0.zip",
-  "sha256": "CD820AA14471624BCE54371E7F1386282C1515B82AFDD8C4D63572B98682C530",
-  "notes": "- The console shows what the game says, not how it says it. Minecraft writes its output as XML, three lines of markup for every line of meaning, and that is what used to be on screen.\n- Every line now has its time, its level and its message in their own columns.\n- Warnings and errors are coloured and marked down the left edge, so you find them by scrolling instead of by reading.\n- Show only warnings or only errors, or search the log for a word.\n- Pick lines with the mouse and copy them with Ctrl+C. COPY takes the whole log when nothing is picked.\n- A crash report saved from here is readable now: it is written the way latest.log is, not as XML.",
-  "mandatory": false
+  "version": "3.2.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0.zip",
+  "sha256": "A376C5C21B5591E10E12AFDDD66A6819C56EFCCCEF056D42DA628172FAB52AD0",
+  "notes": "- Iris Client runs on Linux and macOS. Same launcher, same instances, same in-game menu, same bundled pack.\n- Signing in on Linux and macOS shows a short code to enter in your own browser, the way a console does. Nothing is typed into the launcher and it never sees your password.\n- The macOS build is a real application bundle: drag it to Applications and it behaves like anything else there.\n- On Linux the launcher can add itself to your applications menu from Settings.\n- About no longer rolls the credits. It tells you what the program is and what your copy of it actually is: version, platform, runtime, and where its files live.\n- The Designer rank is now Developer.\n- Only the first ten accounts given the Tester rank keep it. Everybody else is a Player.",
+  "mandatory": false,
+  "downloads": {
+    "win-x64": {
+      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0.zip",
+      "sha256": "A376C5C21B5591E10E12AFDDD66A6819C56EFCCCEF056D42DA628172FAB52AD0"
+    },
+    "linux-x64": {
+      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0-linux-x64.tar.gz",
+      "sha256": "9291B91531F9CEA2C87CCD8A7B6AAA3CF3B59DF04577BB5E5B20A8DDB0725DF3"
+    },
+    "osx-x64": {
+      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0-osx-x64.tar.gz",
+      "sha256": "3642E92FB43AD0F83FEAE2001132D38AF6AC73A95E61FA250E6D0E45C7A776C5"
+    },
+    "osx-arm64": {
+      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0-osx-arm64.tar.gz",
+      "sha256": "333B8B526C8DB795E4BD50BB2BD645FFD09EE5DD4120D975EE7E92922459A892"
+    }
+  }
 }
