@@ -1,25 +1,25 @@
 {
-  "version": "3.4.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0.zip",
-  "sha256": "B3A07D8928507C7459F0D989FB32742FBA7CE51CBFA30EFF8B6A1830010DFD64",
-  "notes": "- Capes has its own page in the sidebar: tools down the left, the canvas in the middle, frames underneath, the player wearing it and the colours on the right.\n- My capes keeps every cape you save. Open one to edit it, wear it, copy it or delete it, and the rest stay where they are.\n- Saved capes open again. A big animated cape was shrunk while loading and came back as an empty new one.\n- Zoom the canvas with the buttons or Ctrl and the mouse wheel. Fit puts the whole cape in view, and a pixel grid shows up once pixels are big enough.\n- Detail sets how many pixels the texture has, from 64 to 1024. The cape in game stays the same size, it just gets finer.\n- Keys in the studio: B brush, F fill, L line, R box, I pick colour, M mirror, G grid, X swap colours, Ctrl+Z, Ctrl+Y and Ctrl+S.\n- Drop a picture anywhere on the Capes page to upload it.",
+  "version": "3.5.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0.zip",
+  "sha256": "88339B0AF628FEE5C6A733A0EEC4A53716668D616A664EB110732E646C060392",
+  "notes": "- Every Iris Client player sees the cape you wear, within a minute or two. No waiting for the owner any more.\n- The switch next to SAVE says who sees it: Visible to everyone, or Only you see it.\n- GIFs work properly: every frame, its own timing and transparent parts come along, and long GIFs are thinned evenly instead of cut off.\n- A cape made from a GIF carries a GIF badge, other moving capes an ANIMATED one, in the studio and in My capes.\n- The cards in My capes and the gallery show the cape in 3D and play the animation.\n- The gallery shows the cape of every player who shares one, with who wears it.\n- The Capes page is calmer: tabs slide in, cards lift when you point at them, and notes fade out on their own.\n- Big capes are sent smaller when they would be too large, and the PNGs Iris Client writes are a lot smaller now.\n- On Linux and macOS a GIF comes in with every frame, and sharing works the same way.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0.zip",
-      "sha256": "B3A07D8928507C7459F0D989FB32742FBA7CE51CBFA30EFF8B6A1830010DFD64"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0.zip",
+      "sha256": "88339B0AF628FEE5C6A733A0EEC4A53716668D616A664EB110732E646C060392"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0-linux-x64.tar.gz",
-      "sha256": "BABA2F1552728EA325D13DBA1082B46FD3E9FA9B99C45ACCE33C62DA84F13503"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0-linux-x64.tar.gz",
+      "sha256": "46F70EA8EB841FFF1961C2DBB27085565F9DADD2C90DC550F2CB9C15FADD1504"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0-osx-x64.tar.gz",
-      "sha256": "D1B6BBA112E44194479A51E0A969EBA8D1E19B37A8694DE4EDC33B39E67992B2"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0-osx-x64.tar.gz",
+      "sha256": "63E92DAC8E24E28BD13044A64463C8641BE51C3595A574DE160245F28F9ABE2B"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0-osx-arm64.tar.gz",
-      "sha256": "BCAE0FE68484BF86C81B7C21713185583E1DA8AE3FA7AA5F6742DB46775F6581"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0-osx-arm64.tar.gz",
+      "sha256": "9E0127EFEAADDD02315057D9F64968BC869A3F67358A305BF99EBAC788719BF3"
     }
   }
 }
