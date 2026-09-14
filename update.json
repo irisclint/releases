@@ -1,25 +1,25 @@
 {
-  "version": "3.3.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0.zip",
-  "sha256": "B0C751A445E4F80CC514631BB155E83FB40408090AD9174585F40BB7DDFB63E1",
-  "notes": "- Cape Studio on the Profile page: paint your own cape or import any picture, from 64x32 up to 1024x512.\n- Capes can move. Add frames, set how long each one shows, or import a GIF and every frame comes along.\n- See it on you before you save: a 3D player in your own skin wears the cape, and you drag to turn it round.\n- Pick a start from eight templates, or open any published cape and make it your own.\n- You wear a saved cape in game straight away, even while Minecraft is already running.\n- SHOW IT TO EVERYONE sends it to the owner. Once published, every Iris Client player sees it on you, elytra included.\n- Custom capes also show on offline mode servers, matched by player name there.\n- Cape names with extremist codes, left or right, are refused. A picture only goes public after the owner has looked at it.\n- Two new switches in the Right Shift menu: Custom capes and My own cape.\n- Joining servers works again when the launcher has been open for a while. Your sign-in is checked right before the game starts and renewed if it ran out, instead of every server refusing you.\n- If third person view ends up on a key that something else also uses, it goes back to F5. Mod Menu no longer opens together with the Iris Client menu on Right Shift.",
+  "version": "3.4.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0.zip",
+  "sha256": "B3A07D8928507C7459F0D989FB32742FBA7CE51CBFA30EFF8B6A1830010DFD64",
+  "notes": "- Capes has its own page in the sidebar: tools down the left, the canvas in the middle, frames underneath, the player wearing it and the colours on the right.\n- My capes keeps every cape you save. Open one to edit it, wear it, copy it or delete it, and the rest stay where they are.\n- Saved capes open again. A big animated cape was shrunk while loading and came back as an empty new one.\n- Zoom the canvas with the buttons or Ctrl and the mouse wheel. Fit puts the whole cape in view, and a pixel grid shows up once pixels are big enough.\n- Detail sets how many pixels the texture has, from 64 to 1024. The cape in game stays the same size, it just gets finer.\n- Keys in the studio: B brush, F fill, L line, R box, I pick colour, M mirror, G grid, X swap colours, Ctrl+Z, Ctrl+Y and Ctrl+S.\n- Drop a picture anywhere on the Capes page to upload it.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0.zip",
-      "sha256": "B0C751A445E4F80CC514631BB155E83FB40408090AD9174585F40BB7DDFB63E1"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0.zip",
+      "sha256": "B3A07D8928507C7459F0D989FB32742FBA7CE51CBFA30EFF8B6A1830010DFD64"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0-linux-x64.tar.gz",
-      "sha256": "0770C69C63E09D48DF284C8730ABE6980D492CEBE340966F3147A29ADA1A190A"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0-linux-x64.tar.gz",
+      "sha256": "BABA2F1552728EA325D13DBA1082B46FD3E9FA9B99C45ACCE33C62DA84F13503"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0-osx-x64.tar.gz",
-      "sha256": "ACD60642091EAE861D15A1628CD5AED28733D41242D47B52B84A14410E6322A6"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0-osx-x64.tar.gz",
+      "sha256": "D1B6BBA112E44194479A51E0A969EBA8D1E19B37A8694DE4EDC33B39E67992B2"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0-osx-arm64.tar.gz",
-      "sha256": "52FCDDE7EA69AD359F958618662280C03AE3BF65C49CA1C26D8C449030039368"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.4.0/IrisClient-3.4.0-osx-arm64.tar.gz",
+      "sha256": "BCAE0FE68484BF86C81B7C21713185583E1DA8AE3FA7AA5F6742DB46775F6581"
     }
   }
 }
