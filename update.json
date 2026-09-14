@@ -1,25 +1,25 @@
 {
-  "version": "3.6.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0.zip",
-  "sha256": "F2CE56380E8361E46B04E1969F099D9D05DE9A04C89A2E8EF61D0867A2380EEF",
-  "notes": "- The Iris Client HUD stays on screen with hitboxes (F3+B) or chunk borders on. It used to vanish with ping, FPS and everything else.\n- New Ranks page. Get tier tested in Sword, UHC, Bow, Axe, Crystal, Pot, Netherite Pot, Mace, Elytra Mace, Spear Mace or SMP, from level 1 to 3.\n- Every level has its own title, from Recruit to Sword Master. Harry Potter (P4) and True Mace Master (M4) unlock once their kits are all at level 3.\n- My rank shows your nametag the way other players see it. Click a rank you hold to put it in your nametag, like S3 or P4, or hide it.\n- Leaderboards for every kit and overall. Higher levels come first, and among equal levels whoever was ranked first stays on top.\n- Ghostlex_ tests players in the PvP panel. Only that account can set ranks, the rank service checks it with Mojang.\n- PvP ranks show in game in the colour of their level. PvP ranks in the Right Shift menu switches them off.\n- A clean Ranks page: kit cards fill the width, a short guide shows how to get your first rank, and empty leaderboards say what comes next.\n- The Ranks page is on Linux and macOS too.",
+  "version": "3.5.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0.zip",
+  "sha256": "88339B0AF628FEE5C6A733A0EEC4A53716668D616A664EB110732E646C060392",
+  "notes": "- Every Iris Client player sees the cape you wear, within a minute or two. No waiting for the owner any more.\n- The switch next to SAVE says who sees it: Visible to everyone, or Only you see it.\n- GIFs work properly: every frame, its own timing and transparent parts come along, and long GIFs are thinned evenly instead of cut off.\n- A cape made from a GIF carries a GIF badge, other moving capes an ANIMATED one, in the studio and in My capes.\n- The cards in My capes and the gallery show the cape in 3D and play the animation.\n- The gallery shows the cape of every player who shares one, with who wears it.\n- The Capes page is calmer: tabs slide in, cards lift when you point at them, and notes fade out on their own.\n- Big capes are sent smaller when they would be too large, and the PNGs Iris Client writes are a lot smaller now.\n- On Linux and macOS a GIF comes in with every frame, and sharing works the same way.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0.zip",
-      "sha256": "F2CE56380E8361E46B04E1969F099D9D05DE9A04C89A2E8EF61D0867A2380EEF"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0.zip",
+      "sha256": "88339B0AF628FEE5C6A733A0EEC4A53716668D616A664EB110732E646C060392"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0-linux-x64.tar.gz",
-      "sha256": "DD5369BC0BD97BA534068F7EC5D1EB84E9FE73FC65B7DAC15850A0D7AA86253E"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0-linux-x64.tar.gz",
+      "sha256": "46F70EA8EB841FFF1961C2DBB27085565F9DADD2C90DC550F2CB9C15FADD1504"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0-osx-x64.tar.gz",
-      "sha256": "68B27F2EC7DDE464DD0D1E123735A9E3F8585704BE3577182492EA6956C86EB9"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0-osx-x64.tar.gz",
+      "sha256": "63E92DAC8E24E28BD13044A64463C8641BE51C3595A574DE160245F28F9ABE2B"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0-osx-arm64.tar.gz",
-      "sha256": "0B10B9B6FF4EF19B69D9FC8F1B5D9FBEF9927D831B146A62772E45F73F7755C8"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.5.0/IrisClient-3.5.0-osx-arm64.tar.gz",
+      "sha256": "9E0127EFEAADDD02315057D9F64968BC869A3F67358A305BF99EBAC788719BF3"
     }
   }
 }
