@@ -1,25 +1,25 @@
 {
-  "version": "3.2.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0.zip",
-  "sha256": "A376C5C21B5591E10E12AFDDD66A6819C56EFCCCEF056D42DA628172FAB52AD0",
-  "notes": "- Iris Client runs on Linux and macOS. Same launcher, same instances, same in-game menu, same bundled pack.\n- Signing in on Linux and macOS shows a short code to enter in your own browser, the way a console does. Nothing is typed into the launcher and it never sees your password.\n- The macOS build is a real application bundle: drag it to Applications and it behaves like anything else there.\n- On Linux the launcher can add itself to your applications menu from Settings.\n- About no longer rolls the credits. It tells you what the program is and what your copy of it actually is: version, platform, runtime, and where its files live.\n- The Designer rank is now Developer.\n- Only the first ten accounts given the Tester rank keep it. Everybody else is a Player.",
+  "version": "3.3.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0.zip",
+  "sha256": "B0C751A445E4F80CC514631BB155E83FB40408090AD9174585F40BB7DDFB63E1",
+  "notes": "- Cape Studio on the Profile page: paint your own cape or import any picture, from 64x32 up to 1024x512.\n- Capes can move. Add frames, set how long each one shows, or import a GIF and every frame comes along.\n- See it on you before you save: a 3D player in your own skin wears the cape, and you drag to turn it round.\n- Pick a start from eight templates, or open any published cape and make it your own.\n- You wear a saved cape in game straight away, even while Minecraft is already running.\n- SHOW IT TO EVERYONE sends it to the owner. Once published, every Iris Client player sees it on you, elytra included.\n- Custom capes also show on offline mode servers, matched by player name there.\n- Cape names with extremist codes, left or right, are refused. A picture only goes public after the owner has looked at it.\n- Two new switches in the Right Shift menu: Custom capes and My own cape.\n- Joining servers works again when the launcher has been open for a while. Your sign-in is checked right before the game starts and renewed if it ran out, instead of every server refusing you.\n- If third person view ends up on a key that something else also uses, it goes back to F5. Mod Menu no longer opens together with the Iris Client menu on Right Shift.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0.zip",
-      "sha256": "A376C5C21B5591E10E12AFDDD66A6819C56EFCCCEF056D42DA628172FAB52AD0"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0.zip",
+      "sha256": "B0C751A445E4F80CC514631BB155E83FB40408090AD9174585F40BB7DDFB63E1"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0-linux-x64.tar.gz",
-      "sha256": "9291B91531F9CEA2C87CCD8A7B6AAA3CF3B59DF04577BB5E5B20A8DDB0725DF3"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0-linux-x64.tar.gz",
+      "sha256": "0770C69C63E09D48DF284C8730ABE6980D492CEBE340966F3147A29ADA1A190A"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0-osx-x64.tar.gz",
-      "sha256": "3642E92FB43AD0F83FEAE2001132D38AF6AC73A95E61FA250E6D0E45C7A776C5"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0-osx-x64.tar.gz",
+      "sha256": "ACD60642091EAE861D15A1628CD5AED28733D41242D47B52B84A14410E6322A6"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.2.0/IrisClient-3.2.0-osx-arm64.tar.gz",
-      "sha256": "333B8B526C8DB795E4BD50BB2BD645FFD09EE5DD4120D975EE7E92922459A892"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.3.0/IrisClient-3.3.0-osx-arm64.tar.gz",
+      "sha256": "52FCDDE7EA69AD359F958618662280C03AE3BF65C49CA1C26D8C449030039368"
     }
   }
 }
