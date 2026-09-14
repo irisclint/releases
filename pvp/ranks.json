@@ -60,19 +60,5 @@
     },
     "equipped": "",
     "updated": "2026-09-14T23:20:07.774Z"
-  },
-  "c4c987f2bb2d4d228f2c7a7a007a6a3f": {
-    "name": "99qooo",
-    "added": "2026-09-14T23:19:58.072Z",
-    "kits": {
-      "spearmace": {
-        "level": 3,
-        "added": "2026-09-14T23:20:07.625Z",
-        "updated": "2026-09-14T23:20:07.625Z",
-        "by": "99qooo"
-      }
-    },
-    "equipped": "",
-    "updated": "2026-09-14T23:20:46.667Z"
   }
 }
