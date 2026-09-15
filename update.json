@@ -1,25 +1,25 @@
 {
-  "version": "3.7.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0.zip",
-  "sha256": "9779EB27F8FDAD34558285F1C9121A25294E84836DF77BFD8545BDE6445F11F2",
-  "notes": "- Every PvP kit has its icon now, a mace for Mace and a bow for Bow, on the Ranks page, in the leaderboards and in name tags.\n- Friends: add anyone by their Minecraft name, see who is online and on which server or world, and get a pop-up when a friend comes online.\n- Profiles: pick your favourite title from any rank you hold, the kits you play and a short bio. Everyone can open anyone's profile, with all their ranks.\n- The Right Shift menu has categories down the left: Settings, Waypoints, Leaderboard, Friends, Players and your Profile.\n- Waypoints in the Right Shift menu: set one where you stand, per dimension. They stay after quitting and only show in the world or on the server they were made in.\n- A leaderboard in game with a global board and a local one for the Iris Client players on your server.\n- Friends see which server you are on only while Share my server is on in Right Shift, Settings.\n\nSuggested by Ghostlex",
+  "version": "3.8.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0.zip",
+  "sha256": "A02214750E8AA4D351F35FC38915F3B82CBEDA6FFB2F4434892E19945A1CC4A6",
+  "notes": "- Two new PvP kits: Respawn Anchor (Ship, Left behind, Fallen King) and Cart (Creeper, Bomber, Nuke), with their icons.\n- Seven new level 4 ranks: Legendary Knight, Golden one, Steve, Fallen Angel, Reborned, Conductor and Living Shield, next to Harry Potter and True Mace Master.\n- The Iris Client app for your phone: leaderboards, player profiles, friends with who is online, capes and news.\n- Android gets the app as a download. On iPhone, open the app page in Safari and add it to the home screen.\n- Link your phone from Friends in the launcher: press the phone button and type the code in the app. No Microsoft sign-in on the phone.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0.zip",
-      "sha256": "9779EB27F8FDAD34558285F1C9121A25294E84836DF77BFD8545BDE6445F11F2"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0.zip",
+      "sha256": "A02214750E8AA4D351F35FC38915F3B82CBEDA6FFB2F4434892E19945A1CC4A6"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0-linux-x64.tar.gz",
-      "sha256": "DD1ED0309C537CFD85579E2007B1DE1F291E2F0EA544EA5DAD9C4EC559040A42"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0-linux-x64.tar.gz",
+      "sha256": "E8E8F5E3175FC333809AF9F513B261E59D5574592471D370537FECEF8F0003A9"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0-osx-x64.tar.gz",
-      "sha256": "D3D221299E0DB61875A18BDA2C29841265B5C49A7A796A29936AE94F90CB4AFC"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0-osx-x64.tar.gz",
+      "sha256": "488CECB8ADA26D2B3E9EC460181248B093AEDC4D438818506BAC1D719971CE31"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0-osx-arm64.tar.gz",
-      "sha256": "43F47C9472A5D3166C57C0E784F56E19284835369CF21141992E3BF8807E2D01"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0-osx-arm64.tar.gz",
+      "sha256": "1BE4BC5B3CC0252BD0EAA5B13097415D761D045C4E82E95AA170044E5CAA8B42"
     }
   }
 }
