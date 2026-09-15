@@ -1,25 +1,25 @@
 {
-  "version": "3.8.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0.zip",
-  "sha256": "A02214750E8AA4D351F35FC38915F3B82CBEDA6FFB2F4434892E19945A1CC4A6",
-  "notes": "- Two new PvP kits: Respawn Anchor (Ship, Left behind, Fallen King) and Cart (Creeper, Bomber, Nuke), with their icons.\n- Seven new level 4 ranks: Legendary Knight, Golden one, Steve, Fallen Angel, Reborned, Conductor and Living Shield, next to Harry Potter and True Mace Master.\n- The Iris Client app for your phone: leaderboards, player profiles, friends with who is online, capes and news.\n- Android gets the app as a download. On iPhone, open the app page in Safari and add it to the home screen.\n- Link your phone from Friends in the launcher: press the phone button and type the code in the app. No Microsoft sign-in on the phone.",
+  "version": "3.8.1",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1.zip",
+  "sha256": "555A3DC863360E7EA368357546F2110C054256FD7DD9532C22CF8FFC2AB03247",
+  "notes": "- The Android app is attached to every release as IrisClient-Android.apk, next to the launcher downloads.\n- The Play page has an Iris Client on your phone card with ANDROID APP, IPHONE and LINK PHONE.\n- The download menu on the website offers the Android app and, for iPhone, the web app.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0.zip",
-      "sha256": "A02214750E8AA4D351F35FC38915F3B82CBEDA6FFB2F4434892E19945A1CC4A6"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1.zip",
+      "sha256": "555A3DC863360E7EA368357546F2110C054256FD7DD9532C22CF8FFC2AB03247"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0-linux-x64.tar.gz",
-      "sha256": "E8E8F5E3175FC333809AF9F513B261E59D5574592471D370537FECEF8F0003A9"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1-linux-x64.tar.gz",
+      "sha256": "F654A5CFD5E38F42719E4421263D27A4504E012F0EC43DAA11FC6882BFE40DD8"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0-osx-x64.tar.gz",
-      "sha256": "488CECB8ADA26D2B3E9EC460181248B093AEDC4D438818506BAC1D719971CE31"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1-osx-x64.tar.gz",
+      "sha256": "FD93D6CBE268328614B87C0DE20083A78F232509D51CC39A6D3106E0A44F4220"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.0/IrisClient-3.8.0-osx-arm64.tar.gz",
-      "sha256": "1BE4BC5B3CC0252BD0EAA5B13097415D761D045C4E82E95AA170044E5CAA8B42"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1-osx-arm64.tar.gz",
+      "sha256": "78F2A3A030A87E96640E4D815F1C99DFAE55ED277F715AC89652A0487A71C41B"
     }
   }
 }
