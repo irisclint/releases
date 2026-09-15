@@ -1,25 +1,25 @@
 {
-  "version": "3.6.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0.zip",
-  "sha256": "77914EAA8CD3CB5EFFCD22D9F568CB2A234E7E83446C91197AB2C888F8236B98",
-  "notes": "- The Iris Client HUD stays on screen with hitboxes (F3+B) or chunk borders on. It used to vanish with ping, FPS and everything else.\n- New Ranks page. Get tier tested in Sword, UHC, Bow, Axe, Crystal, Pot, Netherite Pot, Mace, Elytra Mace, Spear Mace or SMP, from level 1 to 3.\n- Every level has its own title, from Recruit to Sword Master. Harry Potter (P4) and True Mace Master (M4) unlock once their kits are all at level 3.\n- My rank shows your nametag the way other players see it. Click a rank you hold to put it in your nametag, like S3 or P4, or hide it.\n- Leaderboards for every kit and overall. Higher levels come first, and among equal levels whoever was ranked first stays on top.\n- Ghostlex_ and 99qooo test players in the tier tester panel. Only those two accounts can set ranks, the rank service checks it with Mojang.\n- PvP ranks show in game in the colour of their level. PvP ranks in the Right Shift menu switches them off.\n- A clean Ranks page: kit cards fill the width, a short guide shows how to get your first rank, and empty leaderboards say what comes next.\n- A cleaner sidebar: the pages sit in four groups, the rows are slimmer, and your account is one small card with sign out as an icon.\n- The Play page shows what is new in this version, and update notes are proper bullet lists.\n- The Ranks page is on Linux and macOS too.",
+  "version": "3.7.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0.zip",
+  "sha256": "9779EB27F8FDAD34558285F1C9121A25294E84836DF77BFD8545BDE6445F11F2",
+  "notes": "- Every PvP kit has its icon now, a mace for Mace and a bow for Bow, on the Ranks page, in the leaderboards and in name tags.\n- Friends: add anyone by their Minecraft name, see who is online and on which server or world, and get a pop-up when a friend comes online.\n- Profiles: pick your favourite title from any rank you hold, the kits you play and a short bio. Everyone can open anyone's profile, with all their ranks.\n- The Right Shift menu has categories down the left: Settings, Waypoints, Leaderboard, Friends, Players and your Profile.\n- Waypoints in the Right Shift menu: set one where you stand, per dimension. They stay after quitting and only show in the world or on the server they were made in.\n- A leaderboard in game with a global board and a local one for the Iris Client players on your server.\n- Friends see which server you are on only while Share my server is on in Right Shift, Settings.\n\nSuggested by Ghostlex",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0.zip",
-      "sha256": "77914EAA8CD3CB5EFFCD22D9F568CB2A234E7E83446C91197AB2C888F8236B98"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0.zip",
+      "sha256": "9779EB27F8FDAD34558285F1C9121A25294E84836DF77BFD8545BDE6445F11F2"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0-linux-x64.tar.gz",
-      "sha256": "6AD9D9460E45BFB4AEB160B586DC8082EDFA05D318AE31A3662BF8BEB22EA61A"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0-linux-x64.tar.gz",
+      "sha256": "DD1ED0309C537CFD85579E2007B1DE1F291E2F0EA544EA5DAD9C4EC559040A42"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0-osx-x64.tar.gz",
-      "sha256": "FDF0DE54EEB15F7923C6FBAE601D0601F4D01AFD8036BD6FF5B25071839608AD"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0-osx-x64.tar.gz",
+      "sha256": "D3D221299E0DB61875A18BDA2C29841265B5C49A7A796A29936AE94F90CB4AFC"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.6.0/IrisClient-3.6.0-osx-arm64.tar.gz",
-      "sha256": "87C2D4848D89B7EA4A66DFAD9B7092AC5A222FD193EBD556E7508F69C55E0B2E"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.7.0/IrisClient-3.7.0-osx-arm64.tar.gz",
+      "sha256": "43F47C9472A5D3166C57C0E784F56E19284835369CF21141992E3BF8807E2D01"
     }
   }
 }
