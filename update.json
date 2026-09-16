@@ -1,25 +1,25 @@
 {
-  "version": "3.8.1",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1.zip",
-  "sha256": "555A3DC863360E7EA368357546F2110C054256FD7DD9532C22CF8FFC2AB03247",
-  "notes": "- The Android app is attached to every release as IrisClient-Android.apk, next to the launcher downloads.\n- The Play page has an Iris Client on your phone card with ANDROID APP, IPHONE and LINK PHONE.\n- The download menu on the website offers the Android app and, for iPhone, the web app.",
+  "version": "3.8.2",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2.zip",
+  "sha256": "23E7B3ECC51A23A777B89EF137AB397A8BB9EAC34A0970265542A097027913A2",
+  "notes": "- The Android app has a Play page: it finds a launcher that runs Java Edition, downloads the Iris pack and hands it over.\n- The Iris pack for phones holds the same mods, the same Iris resource pack and the same Iris menu as a PC instance.\n- Every release now also carries irismenu.jar and IrisClientPack.zip, which is what the phone pack downloads.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1.zip",
-      "sha256": "555A3DC863360E7EA368357546F2110C054256FD7DD9532C22CF8FFC2AB03247"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2.zip",
+      "sha256": "23E7B3ECC51A23A777B89EF137AB397A8BB9EAC34A0970265542A097027913A2"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1-linux-x64.tar.gz",
-      "sha256": "F654A5CFD5E38F42719E4421263D27A4504E012F0EC43DAA11FC6882BFE40DD8"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2-linux-x64.tar.gz",
+      "sha256": "2B8D2F4B62BF6A66FE7C2C2B4921B1CEEA2D8C704E513250D3AE253E4A964AD6"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1-osx-x64.tar.gz",
-      "sha256": "FD93D6CBE268328614B87C0DE20083A78F232509D51CC39A6D3106E0A44F4220"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2-osx-x64.tar.gz",
+      "sha256": "3DF2DDB800A7A403068002DBC07B29EC2BE56A3546650A7BC1E67DE83D13CB8B"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.1/IrisClient-3.8.1-osx-arm64.tar.gz",
-      "sha256": "78F2A3A030A87E96640E4D815F1C99DFAE55ED277F715AC89652A0487A71C41B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2-osx-arm64.tar.gz",
+      "sha256": "B4E404E027F41FF3602FF335D075A35A5844CEE3788F260AEACD6E6A02328C4B"
     }
   }
 }
