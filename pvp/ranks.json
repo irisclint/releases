@@ -79,5 +79,19 @@
     "equipped": "M4",
     "updated": "2026-09-16T21:24:36.075Z",
     "equippedAt": "2026-09-16T21:23:45.082Z"
+  },
+  "c4c987f2bb2d4d228f2c7a7a007a6a3f": {
+    "name": "99qooo",
+    "added": "2026-09-16T23:22:59.939Z",
+    "kits": {
+      "bow": {
+        "level": 3,
+        "added": "2026-09-16T23:22:59.939Z",
+        "updated": "2026-09-16T23:22:59.939Z",
+        "by": "Ghostlex_"
+      }
+    },
+    "equipped": "",
+    "updated": "2026-09-16T23:22:59.939Z"
   }
 }
