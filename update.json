@@ -1,25 +1,25 @@
 {
-  "version": "3.10.1",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.10.1/IrisClient-3.10.1.zip",
-  "sha256": "377758EF998D62EDEF4B12DCCE1F748118688AFA66247452E72A7BCF1F95469C",
-  "notes": "- The new Clock readout showed the standard zone name all year, so a German clock read MEZ in September when the wall clock says MESZ. It now shows whichever one is actually in force.\n- The website's command list has the !me, !playtime, !top, !link and !unlink commands on it, not only the slash ones.",
+  "version": "3.10.2",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2.zip",
+  "sha256": "C862CB8FC1278B510D8A488D9F2F073095B2EFE9D708B7270F38DE2DD32D5C5A",
+  "notes": "- The bot has a /connect command now. Run it with no code at all and it walks you through where to find one, instead of you having to know that !link exists.\n- The Discord button in the launcher tells you to write /connect. The old !link and /iris link keep working.\n- /disconnect undoes it and takes the role back off.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.1/IrisClient-3.10.1.zip",
-      "sha256": "377758EF998D62EDEF4B12DCCE1F748118688AFA66247452E72A7BCF1F95469C"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2.zip",
+      "sha256": "C862CB8FC1278B510D8A488D9F2F073095B2EFE9D708B7270F38DE2DD32D5C5A"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.1/IrisClient-3.10.1-linux-x64.tar.gz",
-      "sha256": "7E5F8FF6B4FDC3CD64700EE070CAF841903E4421494B76C1F8BB6C03BC187D25"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2-linux-x64.tar.gz",
+      "sha256": "6822C297D1280055B7DC43EB74F613DA8959712435B88973F61AC0609C4B57CF"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.1/IrisClient-3.10.1-osx-x64.tar.gz",
-      "sha256": "609B1B17F4361F380FD5CAE374C20E798C723575065B4729821A36E543A8104D"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2-osx-x64.tar.gz",
+      "sha256": "E0293C6C8C517B23AF8FEE2231B5F00C307550FFE4B0141F9C66ABE0807B530B"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.1/IrisClient-3.10.1-osx-arm64.tar.gz",
-      "sha256": "EC38C6F647CB6E2EB3BD40ECD8E9BC0F3A9661DC17BCB99E64DECF4EED04D6E6"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2-osx-arm64.tar.gz",
+      "sha256": "B10F07EEE0D2B142B8F6AB7B1DDFDDDECE8290B360243547FF9A7100FB671759"
     }
   }
 }
