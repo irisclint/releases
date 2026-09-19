@@ -1,25 +1,25 @@
 {
-  "version": "3.9.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0.zip",
-  "sha256": "8F65AD50AC74490B22CF6BB74CFB94C080C76A487F7001CA3D92A5C61492B8D6",
-  "notes": "- Novax's tag works: the rank list said Novax, the account is iNovaXx, so the game never found a match and showed the default rank.\n- Ranks in the admin panel: make your own roles, give them to whoever you want and publish, without shipping a build.\n- Connect Discord from Friends: the launcher hands out a code, !link in Discord ties it to your Minecraft account.\n- The bot counts how long you play and hands out the 1h+, 5h+, 10h+ up to 1000h+ roles for it.\n- !me shows your playtime, your role and your ranks, !top is the playtime leaderboard. The same as /iris me and /iris top.",
+  "version": "3.10.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.10.0/IrisClient-3.10.0.zip",
+  "sha256": "495E3BF0CCB7B8DAD863AEC05CB0CB3D7FE7DC18B6F2B2CA066D0CB1847150FE",
+  "notes": "- Discord now counts the time you are connected with Iris Client, in the launcher and in the game alike, instead of only time in a world. The 1h+ to 1000h+ roles and !top go on that.\n- Right Shift has two new readouts: Client time, the same total Discord shows, and Clock, the real time where you are.\n- The launcher's own played counter on the Play page is unchanged, it is a different thing and always was.\n- The dashboard turns away anybody who is not staff on a server, instead of letting them in to an empty picker.\n- The server leaderboard page needed no sign-in at all and handed out every member's name and avatar to anyone with the link. It is for that server's members now.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0.zip",
-      "sha256": "8F65AD50AC74490B22CF6BB74CFB94C080C76A487F7001CA3D92A5C61492B8D6"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.0/IrisClient-3.10.0.zip",
+      "sha256": "495E3BF0CCB7B8DAD863AEC05CB0CB3D7FE7DC18B6F2B2CA066D0CB1847150FE"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0-linux-x64.tar.gz",
-      "sha256": "7918FF127C9B5001DA1B14EE9D06831F31F3E342ECD247454CB2FC6B2AE1ADA4"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.0/IrisClient-3.10.0-linux-x64.tar.gz",
+      "sha256": "5512BC79F801E587841D9D12AF963CCFDCA76F741AC51FAF3ADEF45CB1C4C40F"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0-osx-x64.tar.gz",
-      "sha256": "C9E132FEE016D60FB72C6B418BE357D0241B3486C8C6013DC7A80D2EE56247A5"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.0/IrisClient-3.10.0-osx-x64.tar.gz",
+      "sha256": "5304C42CB37374E87427559A3C100DAE8A220D879645F8737D0E69F8668BAB27"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0-osx-arm64.tar.gz",
-      "sha256": "4BBCD75865F65951FBB730A5EA2B06F11D9474F1A4E483CDE98F4AA3671ABA57"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.10.0/IrisClient-3.10.0-osx-arm64.tar.gz",
+      "sha256": "827CB9BBBA66852338DF780A29A2652560A73EB2F6F20A630F9EAB0D30AB9040"
     }
   }
 }
