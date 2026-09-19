@@ -1,25 +1,25 @@
 {
-  "version": "3.10.2",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2.zip",
-  "sha256": "C862CB8FC1278B510D8A488D9F2F073095B2EFE9D708B7270F38DE2DD32D5C5A",
-  "notes": "- The bot has a /connect command now. Run it with no code at all and it walks you through where to find one, instead of you having to know that !link exists.\n- The Discord button in the launcher tells you to write /connect. The old !link and /iris link keep working.\n- /disconnect undoes it and takes the role back off.",
+  "version": "3.11.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.11.0/IrisClient-3.11.0.zip",
+  "sha256": "DC8A96FAB86BF3D31CE2373BD88CFEAEC354FAFBE10E49B2475C789DB66676F8",
+  "notes": "- Discord shows the playtime the launcher has been counting all along, the same number as on the Play page. It was only ever counting the minutes since the bot was switched on, which is why it said a few minutes when you had hours.\n- The hour roles go on that real playtime too, so they finally match what you have played.\n- Connect Discord opens your browser and ties the accounts together when you sign in there. No code to read off the screen and type in.\n- Press it again once connected and it offers to disconnect instead.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2.zip",
-      "sha256": "C862CB8FC1278B510D8A488D9F2F073095B2EFE9D708B7270F38DE2DD32D5C5A"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.11.0/IrisClient-3.11.0.zip",
+      "sha256": "DC8A96FAB86BF3D31CE2373BD88CFEAEC354FAFBE10E49B2475C789DB66676F8"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2-linux-x64.tar.gz",
-      "sha256": "6822C297D1280055B7DC43EB74F613DA8959712435B88973F61AC0609C4B57CF"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.11.0/IrisClient-3.11.0-linux-x64.tar.gz",
+      "sha256": "FB2395FF1FDA0F69B992C4C304A92715B5BCF6A64B992F592681EEE6A36764A7"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2-osx-x64.tar.gz",
-      "sha256": "E0293C6C8C517B23AF8FEE2231B5F00C307550FFE4B0141F9C66ABE0807B530B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.11.0/IrisClient-3.11.0-osx-x64.tar.gz",
+      "sha256": "FEFAEC019EFAA38029E17C8D250BFBED1A487411761D2975A25382EF6CB9F27D"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.10.2/IrisClient-3.10.2-osx-arm64.tar.gz",
-      "sha256": "B10F07EEE0D2B142B8F6AB7B1DDFDDDECE8290B360243547FF9A7100FB671759"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.11.0/IrisClient-3.11.0-osx-arm64.tar.gz",
+      "sha256": "52C2EA4FFE73EAB04CFF529B8D95E57EB8001C6569C6C5831C4AC19D9D4C021E"
     }
   }
 }
