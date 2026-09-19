@@ -1,25 +1,25 @@
 {
-  "version": "3.8.2",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2.zip",
-  "sha256": "23E7B3ECC51A23A777B89EF137AB397A8BB9EAC34A0970265542A097027913A2",
-  "notes": "- The Android app has a Play page: it finds a launcher that runs Java Edition, downloads the Iris pack and hands it over.\n- The Iris pack for phones holds the same mods, the same Iris resource pack and the same Iris menu as a PC instance.\n- Every release now also carries irismenu.jar and IrisClientPack.zip, which is what the phone pack downloads.",
+  "version": "3.9.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0.zip",
+  "sha256": "8F65AD50AC74490B22CF6BB74CFB94C080C76A487F7001CA3D92A5C61492B8D6",
+  "notes": "- Novax's tag works: the rank list said Novax, the account is iNovaXx, so the game never found a match and showed the default rank.\n- Ranks in the admin panel: make your own roles, give them to whoever you want and publish, without shipping a build.\n- Connect Discord from Friends: the launcher hands out a code, !link in Discord ties it to your Minecraft account.\n- The bot counts how long you play and hands out the 1h+, 5h+, 10h+ up to 1000h+ roles for it.\n- !me shows your playtime, your role and your ranks, !top is the playtime leaderboard. The same as /iris me and /iris top.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2.zip",
-      "sha256": "23E7B3ECC51A23A777B89EF137AB397A8BB9EAC34A0970265542A097027913A2"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0.zip",
+      "sha256": "8F65AD50AC74490B22CF6BB74CFB94C080C76A487F7001CA3D92A5C61492B8D6"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2-linux-x64.tar.gz",
-      "sha256": "2B8D2F4B62BF6A66FE7C2C2B4921B1CEEA2D8C704E513250D3AE253E4A964AD6"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0-linux-x64.tar.gz",
+      "sha256": "7918FF127C9B5001DA1B14EE9D06831F31F3E342ECD247454CB2FC6B2AE1ADA4"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2-osx-x64.tar.gz",
-      "sha256": "3DF2DDB800A7A403068002DBC07B29EC2BE56A3546650A7BC1E67DE83D13CB8B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0-osx-x64.tar.gz",
+      "sha256": "C9E132FEE016D60FB72C6B418BE357D0241B3486C8C6013DC7A80D2EE56247A5"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.8.2/IrisClient-3.8.2-osx-arm64.tar.gz",
-      "sha256": "B4E404E027F41FF3602FF335D075A35A5844CEE3788F260AEACD6E6A02328C4B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.9.0/IrisClient-3.9.0-osx-arm64.tar.gz",
+      "sha256": "4BBCD75865F65951FBB730A5EA2B06F11D9474F1A4E483CDE98F4AA3671ABA57"
     }
   }
 }
