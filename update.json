@@ -1,25 +1,25 @@
 {
-  "version": "3.11.1",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.11.1/IrisClient-3.11.1.zip",
-  "sha256": "2139D08BDF23F0043AA6B43A1C0F6010B13ABE836157AB3A9ED378969FE4D452",
-  "notes": "- An update could fail with \"the process cannot access the file\" and stop halfway, usually on clrjit.dll, when a second copy of the launcher was still running. It waits for those to close now, and moves a file that is still open aside instead of giving up on it.\n- If a file really cannot be replaced, the update says which one and tells you to close Iris Client, instead of showing a raw Windows error. The old build is left working rather than half overwritten.\n- Files moved aside during an update are cleared away on the next start.",
+  "version": "3.12.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0.zip",
+  "sha256": "36CEA5380E7D8BCF66E8E2AE82591D432D6046E3A5894F97A36A260BA824D157",
+  "notes": "- Settings is a grid of cards now: every feature says what it does, and the whole card is the switch instead of a thin line of text.\n- Tabs for All features, HUD and World & players, and a search box that looks in the names and the descriptions.\n- The menu is larger and carries the deeper violet of the new design, and features added recently wear a New badge.\n- Downloading from the site now explains the Windows warning before it appears, because it hides Run anyway behind More info and people took it for a virus.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.11.1/IrisClient-3.11.1.zip",
-      "sha256": "2139D08BDF23F0043AA6B43A1C0F6010B13ABE836157AB3A9ED378969FE4D452"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0.zip",
+      "sha256": "36CEA5380E7D8BCF66E8E2AE82591D432D6046E3A5894F97A36A260BA824D157"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.11.1/IrisClient-3.11.1-linux-x64.tar.gz",
-      "sha256": "6D552ABC9A00F9AC0DF6D4E9F99568CDAC4822CD494567635F6E183D4FFF9890"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0-linux-x64.tar.gz",
+      "sha256": "7BBFA117429B27C580D86095A7161771AFF716865DB81FB8BEC79990B38FEFC4"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.11.1/IrisClient-3.11.1-osx-x64.tar.gz",
-      "sha256": "579C3577D61F6F5D87EB4BF4615C0BF736AEB74662A0662FEEA85E8CCF2FF44F"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0-osx-x64.tar.gz",
+      "sha256": "B155E3453AF7AC15B30DA00920D59B9A8E71DEF5D7A0B008A4CD53543552881B"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.11.1/IrisClient-3.11.1-osx-arm64.tar.gz",
-      "sha256": "E95BE2A87FB4A2ED3CA454A5BDE0BA4063762D188D99EDBAE403F488CB969E98"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0-osx-arm64.tar.gz",
+      "sha256": "A654E0ABF902E99C582E7F820AC40A66CD55CF8E4090EC95B047E0724B248AB4"
     }
   }
 }
