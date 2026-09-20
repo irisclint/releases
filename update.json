@@ -1,25 +1,25 @@
 {
-  "version": "3.12.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0.zip",
-  "sha256": "36CEA5380E7D8BCF66E8E2AE82591D432D6046E3A5894F97A36A260BA824D157",
-  "notes": "- Settings is a grid of cards now: every feature says what it does, and the whole card is the switch instead of a thin line of text.\n- Tabs for All features, HUD and World & players, and a search box that looks in the names and the descriptions.\n- The menu is larger and carries the deeper violet of the new design, and features added recently wear a New badge.\n- Downloading from the site now explains the Windows warning before it appears, because it hides Run anyway behind More info and people took it for a virus.",
+  "version": "3.13.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.13.0/IrisClient-3.13.0.zip",
+  "sha256": "977CD97E3E1B01E39075B38EAC75F2668CEFA3F9F6390B74099B0F437083BA0F",
+  "notes": "- Switching pages fades and lifts instead of cutting, and the cards on the new page arrive one after another rather than all at once.\n- The marker on the sidebar grows into place under whatever you clicked.\n- Buttons light up as the pointer reaches them, fade out slower than they came on, and press in a little when clicked.\n- Rows lift a pixel and their edge catches the accent colour when you point at them.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0.zip",
-      "sha256": "36CEA5380E7D8BCF66E8E2AE82591D432D6046E3A5894F97A36A260BA824D157"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.13.0/IrisClient-3.13.0.zip",
+      "sha256": "977CD97E3E1B01E39075B38EAC75F2668CEFA3F9F6390B74099B0F437083BA0F"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0-linux-x64.tar.gz",
-      "sha256": "7BBFA117429B27C580D86095A7161771AFF716865DB81FB8BEC79990B38FEFC4"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.13.0/IrisClient-3.13.0-linux-x64.tar.gz",
+      "sha256": "E75B36566209523EECC45B927B2B7076E8E297F851DF0F56F9F72AE711774182"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0-osx-x64.tar.gz",
-      "sha256": "B155E3453AF7AC15B30DA00920D59B9A8E71DEF5D7A0B008A4CD53543552881B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.13.0/IrisClient-3.13.0-osx-x64.tar.gz",
+      "sha256": "487742D6CBC653AAB4C2962DE6A7D0AEDAEAB4D0A18C1D10144F7DDC57A0CC5E"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.12.0/IrisClient-3.12.0-osx-arm64.tar.gz",
-      "sha256": "A654E0ABF902E99C582E7F820AC40A66CD55CF8E4090EC95B047E0724B248AB4"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.13.0/IrisClient-3.13.0-osx-arm64.tar.gz",
+      "sha256": "4865B23D52810F27CB34D801E50DE8DB98043B259E7BB80692291CD5D5B3A11E"
     }
   }
 }
