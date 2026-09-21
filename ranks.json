@@ -1,6 +1,7 @@
 {
   "*": "Player",
   "99qooo": "Owner",
-  "Ghostlex_": "Developer",
-  "iNovaXx": "Tester"
+  "iNovaXx": "Tester",
+  "Ghostlex_": "Co Owner",
+  "*roles": "Owner, Developer, Tester, Player, Co Owner"
 }
