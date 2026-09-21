@@ -1,25 +1,25 @@
 {
-  "version": "3.14.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.14.0/IrisClient-3.14.0.zip",
-  "sha256": "8CBB4713ED2E2C1DBE4A75889BAA76F652FC09C315E41289557B6B73F4D0C053",
-  "notes": "- The Right Shift menu is see-through again, the way it was before the rebuild, with the blurred game showing through the violet instead of the panel covering it up.\n- The launcher window comes up rather than appearing, and its contents swell very slightly as it does.\n- Switches ease across and the knob swells on the way, instead of sliding at a constant speed.\n- The quieter buttons press in when clicked, like the main ones already did.",
+  "version": "3.15.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0.zip",
+  "sha256": "6BF6E08E5C66E6433250CBD696E672C51AA3CE4E6B4027C9419B7554082397CE",
+  "notes": "- The profile page keeps as many avatars as you like instead of one file picker. Pick one, press WEAR, and it goes on your account.\n- Any size goes in now: 64x64, 128x128, 256x256 and up. Bigger pictures are scaled down to what Minecraft takes, and the picture you imported is kept as it was.\n- Every avatar remembers whether it is a Classic or a Slim body, and you can switch that on the card instead of importing it again.\n- On Linux and macOS a skin of any size is accepted too, rather than being turned away for not being 64x64.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.14.0/IrisClient-3.14.0.zip",
-      "sha256": "8CBB4713ED2E2C1DBE4A75889BAA76F652FC09C315E41289557B6B73F4D0C053"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0.zip",
+      "sha256": "6BF6E08E5C66E6433250CBD696E672C51AA3CE4E6B4027C9419B7554082397CE"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.14.0/IrisClient-3.14.0-linux-x64.tar.gz",
-      "sha256": "DD66A32E8F17DA44C340804826AB549624017648BC9025046714E1C107AF95A2"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0-linux-x64.tar.gz",
+      "sha256": "15E33361C8ECF86B283985FBC835DC0D48881CA7FC8F0330F34A72DF053F7B2A"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.14.0/IrisClient-3.14.0-osx-x64.tar.gz",
-      "sha256": "2AF465866C60DD49B2938A91B376169E02F7E2102C6D1AC79D0D394C8A0F1648"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0-osx-x64.tar.gz",
+      "sha256": "E93F2B9EDEFD98F7845EDAEED5D7F8AA348C91F92415ABE40CAEFF8213D49FA9"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.14.0/IrisClient-3.14.0-osx-arm64.tar.gz",
-      "sha256": "F415BD4E5133118C23AB7D3E7511232894C44EEC9FFF7B5E7DA53DA5E89BD9EA"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0-osx-arm64.tar.gz",
+      "sha256": "EF27EF5F8C2A10434F4BE8D27366D589C035F064912291E52A1A17D99CBA8B42"
     }
   }
 }
