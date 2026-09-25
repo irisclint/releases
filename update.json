@@ -1,25 +1,25 @@
 {
-  "version": "9.9.9",
-  "url": "https://github.com/irisclint/releases/releases/download/v9.9.9/IrisClient-9.9.9.zip",
-  "sha256": "B60508A05426C5AB0EE7BF55C2A7E814112367FAA5B3676FA4DAAD4B7AF2A871",
-  "notes": "",
+  "version": "3.17.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.17.0/IrisClient-3.17.0.zip",
+  "sha256": "3FF8FF644FEC7EABE4EEAB943D6D41FF8379E5A18A2558292623A983FD0EE426",
+  "notes": "- Packs & Shaders has a Gallery tab: texture packs other Iris Client players published, installed with one press.\n- Publish your own with UPLOAD A PACK. Give it a name and a line about what it is, and everyone on the client can install it. You can take it down again at any time, and only you can.\n- A pack can be up to 60 MB. It goes up in pieces and comes back down from the same place the launcher gets its updates, so a large pack is not a problem.\n- What comes down is checked against what was published before it is written, so a pack that was tampered with is refused rather than installed.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v9.9.9/IrisClient-9.9.9.zip",
-      "sha256": "B60508A05426C5AB0EE7BF55C2A7E814112367FAA5B3676FA4DAAD4B7AF2A871"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.17.0/IrisClient-3.17.0.zip",
+      "sha256": "3FF8FF644FEC7EABE4EEAB943D6D41FF8379E5A18A2558292623A983FD0EE426"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v9.9.9/IrisClient-9.9.9-linux-x64.tar.gz",
-      "sha256": "6F7545E94C53192CD79E267158806EB209E8C6A50901B3BFD0F31417A6EC112C"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.17.0/IrisClient-3.17.0-linux-x64.tar.gz",
+      "sha256": "A96ADF5EF637FA178E1796BD9F563CD4A6A3DCAEB5B97E903CD89FD32FD7A66B"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v9.9.9/IrisClient-9.9.9-osx-x64.tar.gz",
-      "sha256": "1C612AAA375315729571757DE990116D8C40EB0A0149B193F245A7FFB40F1E7C"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.17.0/IrisClient-3.17.0-osx-x64.tar.gz",
+      "sha256": "9227416BFD0D273032289547DEB07A4C9198BF97D80CD94116F07D68529103F0"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v9.9.9/IrisClient-9.9.9-osx-arm64.tar.gz",
-      "sha256": "E05C3595F429BA5A0E6DED0BE2FB36C62A5EE9CEED7167A2A7E81AB2832AE93D"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.17.0/IrisClient-3.17.0-osx-arm64.tar.gz",
+      "sha256": "1518ACFB0FA1F9EE62557CC7CA2C601072ADCFB160CF43A02AAC0D7BDE14C182"
     }
   }
 }
