@@ -3,7 +3,7 @@
   "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3.zip",
   "sha256": "F652D01E9176C3D39EB0AD2BA74F7A257594CA9537C1EB8A35320FADD2F73214",
   "notes": "- 3.16.2 could not launch the game at all. The chat bubble shipped with one of its classes inside the mixin package, and Mixin refuses to let anything be used from there, so Minecraft stopped while it was still starting up. If you updated to 3.16.2, this is the fix. Nothing was wrong with your installation.\n- Everything 3.16.2 added is still here and unchanged.",
-  "mandatory": false,
+  "mandatory": true,
   "downloads": {
     "win-x64": {
       "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3.zip",
@@ -11,15 +11,15 @@
     },
     "linux-x64": {
       "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3-linux-x64.tar.gz",
-      "sha256": "3A155D2A6C908CC9FE0F94686696993E236CF2D8BABDD2E8C28B4E2CEE905528"
+      "sha256": "5E03AC494ABE4AE4B5178DA39E204FF6C7E746CACD3A75FC874DF5BCB6097BDE"
     },
     "osx-x64": {
       "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3-osx-x64.tar.gz",
-      "sha256": "2E8BE15815C66E646D01178B3A44C6876F5BF5F4EE3EA85A092705A8E7590898"
+      "sha256": "FA6B7413275272D227135990849246A64BC62650CA9588A2C216B836AF1AFC61"
     },
     "osx-arm64": {
       "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3-osx-arm64.tar.gz",
-      "sha256": "4C2962BD72B166450ACBAEDEA8E6F306BF63CE038ED9BF1794AE675819564230"
+      "sha256": "554B9B017D4A288878DE272409808AD3413AB5D09DFAD9962C2B2ECA45E63228"
     }
   }
 }
