@@ -1,25 +1,25 @@
 {
-  "version": "3.16.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0.zip",
-  "sha256": "08C6F4FE4C92D365652EB9EF48D08FEFB4E539BFCF4004EB353D301341001673",
-  "notes": "- Suggested by Ghostlex!\n- A Redstone tier: R1 Architect for simple redstone, R2 Builder for easy farms, R3 Redstoner for simple traps and advanced farms. R4 Master trapper is the level four rank on top.\n- A Special category beside the ranks: Media for content creators and Staff. A special is a mark after your name rather than a word in front of it, so you can hold one alongside your rank, and it can be switched off in the settings.\n- Streamer mode: the coordinate readout shows somewhere else entirely, so a stream never gives your base away. The numbers still move the way real ones do.\n- Chat bubbles: what a player said appears with their name, and whoever is talking right now is marked, so a busy server reads at a glance.\n- A crosshair of your own, on its own page: four shapes, the length, the gap, the thickness, eight colours and a hit marker, with the real thing drawn next to the settings.\n- Presets: save every switch and every panel's place under a name and put it back on with one press.\n- The installed mods tab has a filter, so a folder of eighty jars is no longer a scroll hunt.\n- The ARRANGE HUD button works. The settings list ran fourteen pixels under its own footer, so a card nobody could see was swallowing the press and quietly flipping a setting instead.\n\nSuggested by Ghostlex",
+  "version": "3.16.1",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.16.1/IrisClient-3.16.1.zip",
+  "sha256": "E4E8F068DACFE2839B8AE6398285C4663F1EA89677B8D0B6E89FCFA4CECD981A",
+  "notes": "- Found while looking at the new menu in the game: at a large GUI scale the ARRANGE HUD button, the line explaining it and the friends count all shared one row and drew straight over each other, which came out as a row of unreadable letters. The hint is cut, or dropped when there is no room for it, and the count keeps its place.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0.zip",
-      "sha256": "08C6F4FE4C92D365652EB9EF48D08FEFB4E539BFCF4004EB353D301341001673"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.1/IrisClient-3.16.1.zip",
+      "sha256": "E4E8F068DACFE2839B8AE6398285C4663F1EA89677B8D0B6E89FCFA4CECD981A"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0-linux-x64.tar.gz",
-      "sha256": "28ADF41599F274639A0671CEB2317B0878B3C05D6ECDCDDEB760ECE0A5C6DFC4"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.1/IrisClient-3.16.1-linux-x64.tar.gz",
+      "sha256": "855C0CE683AC430C8572CDF552154E9DE30F3BFCFD8F758D4EB284D8145C66C6"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0-osx-x64.tar.gz",
-      "sha256": "F79AC151523C68B86778078A264082EC06C2CCB8F6F467C2E04134C937D8B81B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.1/IrisClient-3.16.1-osx-x64.tar.gz",
+      "sha256": "5823B83ABFECABDEBFC2792CE1EE92BEB1F92AE0B570F3A40D0723C48076AEB8"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0-osx-arm64.tar.gz",
-      "sha256": "0217212A67EE2D8109DC920F2C953E8BED3B61AD8A84D6644C2D55773557CD5E"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.1/IrisClient-3.16.1-osx-arm64.tar.gz",
+      "sha256": "4CCA8A0E4EAF8C2E5E21685115240AF5E94F9A84451F0CE05B32CD710418A2B2"
     }
   }
 }
