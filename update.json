@@ -1,25 +1,25 @@
 {
-  "version": "3.16.2",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.16.2/IrisClient-3.16.2.zip",
-  "sha256": "6A811655D886FE1E8C01CC089B55B76DE452AF86032BDDEA0D83D6A289F4C523",
-  "notes": "- What somebody said is its own panel above their head now, instead of text tacked onto their name. Up to three lines stack, the newest closest to the head, and a long sentence no longer stretches the name tag across the screen.\n- The mark for who is talking stays on the name, where it belongs.\n- The bubble goes through the same call the game uses for a name tag, so it turns to face you, dims with distance and hides behind walls exactly the way a name does.",
+  "version": "3.16.3",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3.zip",
+  "sha256": "F652D01E9176C3D39EB0AD2BA74F7A257594CA9537C1EB8A35320FADD2F73214",
+  "notes": "- 3.16.2 could not launch the game at all. The chat bubble shipped with one of its classes inside the mixin package, and Mixin refuses to let anything be used from there, so Minecraft stopped while it was still starting up. If you updated to 3.16.2, this is the fix. Nothing was wrong with your installation.\n- Everything 3.16.2 added is still here and unchanged.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.2/IrisClient-3.16.2.zip",
-      "sha256": "6A811655D886FE1E8C01CC089B55B76DE452AF86032BDDEA0D83D6A289F4C523"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3.zip",
+      "sha256": "F652D01E9176C3D39EB0AD2BA74F7A257594CA9537C1EB8A35320FADD2F73214"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.2/IrisClient-3.16.2-linux-x64.tar.gz",
-      "sha256": "103A582621296F588F8694EA5ECFEFCEBA70783653826E7A20E084C90E1B8B01"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3-linux-x64.tar.gz",
+      "sha256": "3A155D2A6C908CC9FE0F94686696993E236CF2D8BABDD2E8C28B4E2CEE905528"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.2/IrisClient-3.16.2-osx-x64.tar.gz",
-      "sha256": "69B32FD55616792751A58B63E2F8B159995424A787815E662F98731D4F68F982"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3-osx-x64.tar.gz",
+      "sha256": "2E8BE15815C66E646D01178B3A44C6876F5BF5F4EE3EA85A092705A8E7590898"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.16.2/IrisClient-3.16.2-osx-arm64.tar.gz",
-      "sha256": "1394E94DAA96C8F1EE125671B8E6AA76D2EAFEA28A4B6FB71D115B5D17ACFD35"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.3/IrisClient-3.16.3-osx-arm64.tar.gz",
+      "sha256": "4C2962BD72B166450ACBAEDEA8E6F306BF63CE038ED9BF1794AE675819564230"
     }
   }
 }
