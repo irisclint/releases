@@ -1,25 +1,25 @@
 {
-  "version": "3.15.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0.zip",
-  "sha256": "6BF6E08E5C66E6433250CBD696E672C51AA3CE4E6B4027C9419B7554082397CE",
-  "notes": "- The profile page keeps as many avatars as you like instead of one file picker. Pick one, press WEAR, and it goes on your account.\n- Any size goes in now: 64x64, 128x128, 256x256 and up. Bigger pictures are scaled down to what Minecraft takes, and the picture you imported is kept as it was.\n- Every avatar remembers whether it is a Classic or a Slim body, and you can switch that on the card instead of importing it again.\n- On Linux and macOS a skin of any size is accepted too, rather than being turned away for not being 64x64.",
+  "version": "3.16.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0.zip",
+  "sha256": "08C6F4FE4C92D365652EB9EF48D08FEFB4E539BFCF4004EB353D301341001673",
+  "notes": "- Suggested by Ghostlex!\n- A Redstone tier: R1 Architect for simple redstone, R2 Builder for easy farms, R3 Redstoner for simple traps and advanced farms. R4 Master trapper is the level four rank on top.\n- A Special category beside the ranks: Media for content creators and Staff. A special is a mark after your name rather than a word in front of it, so you can hold one alongside your rank, and it can be switched off in the settings.\n- Streamer mode: the coordinate readout shows somewhere else entirely, so a stream never gives your base away. The numbers still move the way real ones do.\n- Chat bubbles: what a player said appears with their name, and whoever is talking right now is marked, so a busy server reads at a glance.\n- A crosshair of your own, on its own page: four shapes, the length, the gap, the thickness, eight colours and a hit marker, with the real thing drawn next to the settings.\n- Presets: save every switch and every panel's place under a name and put it back on with one press.\n- The installed mods tab has a filter, so a folder of eighty jars is no longer a scroll hunt.\n- The ARRANGE HUD button works. The settings list ran fourteen pixels under its own footer, so a card nobody could see was swallowing the press and quietly flipping a setting instead.\n\nSuggested by Ghostlex",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0.zip",
-      "sha256": "6BF6E08E5C66E6433250CBD696E672C51AA3CE4E6B4027C9419B7554082397CE"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0.zip",
+      "sha256": "08C6F4FE4C92D365652EB9EF48D08FEFB4E539BFCF4004EB353D301341001673"
     },
     "linux-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0-linux-x64.tar.gz",
-      "sha256": "15E33361C8ECF86B283985FBC835DC0D48881CA7FC8F0330F34A72DF053F7B2A"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0-linux-x64.tar.gz",
+      "sha256": "28ADF41599F274639A0671CEB2317B0878B3C05D6ECDCDDEB760ECE0A5C6DFC4"
     },
     "osx-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0-osx-x64.tar.gz",
-      "sha256": "E93F2B9EDEFD98F7845EDAEED5D7F8AA348C91F92415ABE40CAEFF8213D49FA9"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0-osx-x64.tar.gz",
+      "sha256": "F79AC151523C68B86778078A264082EC06C2CCB8F6F467C2E04134C937D8B81B"
     },
     "osx-arm64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.15.0/IrisClient-3.15.0-osx-arm64.tar.gz",
-      "sha256": "EF27EF5F8C2A10434F4BE8D27366D589C035F064912291E52A1A17D99CBA8B42"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.16.0/IrisClient-3.16.0-osx-arm64.tar.gz",
+      "sha256": "0217212A67EE2D8109DC920F2C953E8BED3B61AD8A84D6644C2D55773557CD5E"
     }
   }
 }
