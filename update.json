@@ -1,10 +1,10 @@
 {
-  "version": "3.19.4",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.4/IrisClient-3.19.4.zip",
-  "sha256": "25152B9DAA4EC82E89F722669836A72271066B09305584E90F3D28D4315C311E",
-  "notes": "- Iris Features mod gains FullBright (press B); Invisible Hands stays on H.\n- Both toggles show an action-bar message.",
+  "version": "3.19.5",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.5/IrisClient-3.19.5.zip",
+  "sha256": "485D43FCE734098E51506F9CEBAFB321B13980E852ADCB71FFC6522D982814E1",
+  "notes": "- In-game Iris menu: press Right Shift to toggle Invisible Hands and FullBright from a clean menu.\n- Direct keys still work (H / B).",
   "mandatory": false,
   "downloads": {
-    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.19.4/IrisClient-3.19.4.zip", "sha256": "25152B9DAA4EC82E89F722669836A72271066B09305584E90F3D28D4315C311E" }
+    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.19.5/IrisClient-3.19.5.zip", "sha256": "485D43FCE734098E51506F9CEBAFB321B13980E852ADCB71FFC6522D982814E1" }
   }
 }
