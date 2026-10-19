@@ -1,13 +1,10 @@
 {
-  "version": "3.19.3",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.3/IrisClient-3.19.3.zip",
-  "sha256": "4FD321077FFBC76C171DABDE80E9A61FA6820354A84BDE33614D2759424B9125",
-  "notes": "- New optional in-game mod Iris Features: toggle Invisible Hands with the H key.\n- Installs automatically on Fabric instances, alongside the Iris menu.",
+  "version": "3.19.4",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.4/IrisClient-3.19.4.zip",
+  "sha256": "25152B9DAA4EC82E89F722669836A72271066B09305584E90F3D28D4315C311E",
+  "notes": "- Iris Features mod gains FullBright (press B); Invisible Hands stays on H.\n- Both toggles show an action-bar message.",
   "mandatory": false,
   "downloads": {
-    "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.19.3/IrisClient-3.19.3.zip",
-      "sha256": "4FD321077FFBC76C171DABDE80E9A61FA6820354A84BDE33614D2759424B9125"
-    }
+    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.19.4/IrisClient-3.19.4.zip", "sha256": "25152B9DAA4EC82E89F722669836A72271066B09305584E90F3D28D4315C311E" }
   }
 }
