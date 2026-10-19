@@ -1,8 +1,8 @@
 {
-  "version": "3.20.5",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.5/IrisClient-3.20.5.zip",
-  "sha256": "3D3FE99A7BCE61EC72DF5019A0753627E1489DF44F90D6A1ADD881DF4E84A307",
-  "notes": "- Motion Blur hardened: runs only during active gameplay to avoid a blur-once-per-frame conflict.",
+  "version": "3.20.6",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.6/IrisClient-3.20.6.zip",
+  "sha256": "05DD804B060E80FB6C179F815F799BE48D3BCF707A05FF562F6EF5AECEAAD4EF",
+  "notes": "- Setup auto-disables duplicate mods (e.g. multiple fabric-api), a common crash cause.",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.5/IrisClient-3.20.5.zip", "sha256": "3D3FE99A7BCE61EC72DF5019A0753627E1489DF44F90D6A1ADD881DF4E84A307" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.6/IrisClient-3.20.6.zip", "sha256": "05DD804B060E80FB6C179F815F799BE48D3BCF707A05FF562F6EF5AECEAAD4EF" } }
 }
