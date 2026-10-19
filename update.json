@@ -1,8 +1,8 @@
 {
-  "version": "3.20.2",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.2/IrisClient-3.20.2.zip",
-  "sha256": "0C6624258A79F84B310552DBD7417AB9658FC15C0271FC5F13926A8CA531DD5D",
-  "notes": "- Iris Features: No Hurt Camera and No View Bobbing toggles added to the Right Shift menu.",
+  "version": "3.20.3",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.3/IrisClient-3.20.3.zip",
+  "sha256": "FF9567E947F275AE2CED474CA2FC3B01CE21BCEF652BF03CDE7583F27116C963",
+  "notes": "- Motion Blur toggle in the Right Shift menu: the screen blurs on fast movement/turning (experimental).",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.2/IrisClient-3.20.2.zip", "sha256": "0C6624258A79F84B310552DBD7417AB9658FC15C0271FC5F13926A8CA531DD5D" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.3/IrisClient-3.20.3.zip", "sha256": "FF9567E947F275AE2CED474CA2FC3B01CE21BCEF652BF03CDE7583F27116C963" } }
 }
