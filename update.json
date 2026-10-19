@@ -1,13 +1,13 @@
 {
-  "version": "3.19.1",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.1/IrisClient-3.19.1.zip",
-  "sha256": "98400D0FF8D22F04C1BBEBEEEE5E66A14C457713B329439DCBEED79ECB37FD3D",
-  "notes": "- Two more built-in packs: Short Sword and No Vignette.\n- Each has a preview and installs with one click in Packs & Shaders.",
+  "version": "3.19.2",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.2/IrisClient-3.19.2.zip",
+  "sha256": "CA535F1429631D337F27796C7AC09EE27C72CF2624F70655FE4399080FA1C7B0",
+  "notes": "- Two more built-in packs: Iris Neon and Iris Galaxy.\n- Nine packs total in Packs & Shaders, each with a preview and one-click install.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.19.1/IrisClient-3.19.1.zip",
-      "sha256": "98400D0FF8D22F04C1BBEBEEEE5E66A14C457713B329439DCBEED79ECB37FD3D"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.19.2/IrisClient-3.19.2.zip",
+      "sha256": "CA535F1429631D337F27796C7AC09EE27C72CF2624F70655FE4399080FA1C7B0"
     }
   }
 }
