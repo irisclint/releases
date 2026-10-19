@@ -1,8 +1,8 @@
 {
-  "version": "3.20.3",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.3/IrisClient-3.20.3.zip",
-  "sha256": "FF9567E947F275AE2CED474CA2FC3B01CE21BCEF652BF03CDE7583F27116C963",
-  "notes": "- Motion Blur toggle in the Right Shift menu: the screen blurs on fast movement/turning (experimental).",
+  "version": "3.20.4",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.4/IrisClient-3.20.4.zip",
+  "sha256": "6ACBCDB487C4ED9BDAD804CBABEBFED69E065627E38D9FAFB659EFD22B63B203",
+  "notes": "- Texture packs turn on/off (and remove) like mods in Packs & Shaders.\n- Custom Font: upload any .ttf/.otf to use your own font.",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.3/IrisClient-3.20.3.zip", "sha256": "FF9567E947F275AE2CED474CA2FC3B01CE21BCEF652BF03CDE7583F27116C963" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.4/IrisClient-3.20.4.zip", "sha256": "6ACBCDB487C4ED9BDAD804CBABEBFED69E065627E38D9FAFB659EFD22B63B203" } }
 }
