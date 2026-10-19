@@ -1,13 +1,13 @@
 {
-  "version": "3.19.2",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.2/IrisClient-3.19.2.zip",
-  "sha256": "CA535F1429631D337F27796C7AC09EE27C72CF2624F70655FE4399080FA1C7B0",
-  "notes": "- Two more built-in packs: Iris Neon and Iris Galaxy.\n- Nine packs total in Packs & Shaders, each with a preview and one-click install.",
+  "version": "3.19.3",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.3/IrisClient-3.19.3.zip",
+  "sha256": "4FD321077FFBC76C171DABDE80E9A61FA6820354A84BDE33614D2759424B9125",
+  "notes": "- New optional in-game mod Iris Features: toggle Invisible Hands with the H key.\n- Installs automatically on Fabric instances, alongside the Iris menu.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.19.2/IrisClient-3.19.2.zip",
-      "sha256": "CA535F1429631D337F27796C7AC09EE27C72CF2624F70655FE4399080FA1C7B0"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.19.3/IrisClient-3.19.3.zip",
+      "sha256": "4FD321077FFBC76C171DABDE80E9A61FA6820354A84BDE33614D2759424B9125"
     }
   }
 }
