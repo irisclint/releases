@@ -1,8 +1,8 @@
 {
-  "version": "3.20.4",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.4/IrisClient-3.20.4.zip",
-  "sha256": "6ACBCDB487C4ED9BDAD804CBABEBFED69E065627E38D9FAFB659EFD22B63B203",
-  "notes": "- Texture packs turn on/off (and remove) like mods in Packs & Shaders.\n- Custom Font: upload any .ttf/.otf to use your own font.",
+  "version": "3.20.5",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.5/IrisClient-3.20.5.zip",
+  "sha256": "3D3FE99A7BCE61EC72DF5019A0753627E1489DF44F90D6A1ADD881DF4E84A307",
+  "notes": "- Motion Blur hardened: runs only during active gameplay to avoid a blur-once-per-frame conflict.",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.4/IrisClient-3.20.4.zip", "sha256": "6ACBCDB487C4ED9BDAD804CBABEBFED69E065627E38D9FAFB659EFD22B63B203" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.5/IrisClient-3.20.5.zip", "sha256": "3D3FE99A7BCE61EC72DF5019A0753627E1489DF44F90D6A1ADD881DF4E84A307" } }
 }
