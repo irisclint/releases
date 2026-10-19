@@ -1,10 +1,10 @@
 {
-  "version": "3.20.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.0/IrisClient-3.20.0.zip",
-  "sha256": "6F19D53E351E9C53AF4613AAF6C7DA50B7E2F4333290C7CF8A11D57CC1FF3879",
-  "notes": "- Texture packs are opt-in now; install the ones you want in Packs & Shaders.\n- New packs: Iris PvP (custom hit/crit sounds) and Iris Totem.\n- In-game Iris menu (Right Shift) redesigned.",
+  "version": "3.20.1",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.1/IrisClient-3.20.1.zip",
+  "sha256": "61B5AA583FFA6A2AE51DAD3FE9944127477BF94CBDAC1B804DCCB602BED4F414",
+  "notes": "- Custom Totem: upload any PNG in Packs & Shaders to make your own Totem of Undying.",
   "mandatory": false,
   "downloads": {
-    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.0/IrisClient-3.20.0.zip", "sha256": "6F19D53E351E9C53AF4613AAF6C7DA50B7E2F4333290C7CF8A11D57CC1FF3879" }
+    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.1/IrisClient-3.20.1.zip", "sha256": "61B5AA583FFA6A2AE51DAD3FE9944127477BF94CBDAC1B804DCCB602BED4F414" }
   }
 }
