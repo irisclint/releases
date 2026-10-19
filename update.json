@@ -1,10 +1,8 @@
 {
-  "version": "3.20.1",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.1/IrisClient-3.20.1.zip",
-  "sha256": "61B5AA583FFA6A2AE51DAD3FE9944127477BF94CBDAC1B804DCCB602BED4F414",
-  "notes": "- Custom Totem: upload any PNG in Packs & Shaders to make your own Totem of Undying.",
+  "version": "3.20.2",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.2/IrisClient-3.20.2.zip",
+  "sha256": "0C6624258A79F84B310552DBD7417AB9658FC15C0271FC5F13926A8CA531DD5D",
+  "notes": "- Iris Features: No Hurt Camera and No View Bobbing toggles added to the Right Shift menu.",
   "mandatory": false,
-  "downloads": {
-    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.1/IrisClient-3.20.1.zip", "sha256": "61B5AA583FFA6A2AE51DAD3FE9944127477BF94CBDAC1B804DCCB602BED4F414" }
-  }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.2/IrisClient-3.20.2.zip", "sha256": "0C6624258A79F84B310552DBD7417AB9658FC15C0271FC5F13926A8CA531DD5D" } }
 }
