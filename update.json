@@ -1,13 +1,13 @@
 {
-  "version": "3.19.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.0/IrisClient-3.19.0.zip",
-  "sha256": "D6C0A85CAAB42BAC1FB4BABD977C12F72A1A8F2C2D92F44896E1482D761A9B83",
-  "notes": "- New built-in resource packs: Iris Crystals, Clear Glass, Low Fire and Clear View.\n- Each pack has a preview image and installs with one click in Packs & Shaders.\n- Launcher and core rebuilt.",
+  "version": "3.19.1",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.1/IrisClient-3.19.1.zip",
+  "sha256": "98400D0FF8D22F04C1BBEBEEEE5E66A14C457713B329439DCBEED79ECB37FD3D",
+  "notes": "- Two more built-in packs: Short Sword and No Vignette.\n- Each has a preview and installs with one click in Packs & Shaders.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.19.0/IrisClient-3.19.0.zip",
-      "sha256": "D6C0A85CAAB42BAC1FB4BABD977C12F72A1A8F2C2D92F44896E1482D761A9B83"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.19.1/IrisClient-3.19.1.zip",
+      "sha256": "98400D0FF8D22F04C1BBEBEEEE5E66A14C457713B329439DCBEED79ECB37FD3D"
     }
   }
 }
