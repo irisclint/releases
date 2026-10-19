@@ -1,13 +1,13 @@
 {
-  "version": "3.18.0",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.18.0/IrisClient-3.18.0.zip",
-  "sha256": "EA1C0916F7C7F0CE86DF1EED8462A7B569E9AAE2C4F614E26FD69709D1FBDB5B",
-  "notes": "- New setting: Close launcher after launch — fully closes the launcher once the game starts to free memory (optional, off by default).\n- Launcher and core rebuilt.\n- Privacy: removed background sign-in reporting.",
+  "version": "3.19.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.0/IrisClient-3.19.0.zip",
+  "sha256": "D6C0A85CAAB42BAC1FB4BABD977C12F72A1A8F2C2D92F44896E1482D761A9B83",
+  "notes": "- New built-in resource packs: Iris Crystals, Clear Glass, Low Fire and Clear View.\n- Each pack has a preview image and installs with one click in Packs & Shaders.\n- Launcher and core rebuilt.",
   "mandatory": false,
   "downloads": {
     "win-x64": {
-      "url": "https://github.com/irisclint/releases/releases/download/v3.18.0/IrisClient-3.18.0.zip",
-      "sha256": "EA1C0916F7C7F0CE86DF1EED8462A7B569E9AAE2C4F614E26FD69709D1FBDB5B"
+      "url": "https://github.com/irisclint/releases/releases/download/v3.19.0/IrisClient-3.19.0.zip",
+      "sha256": "D6C0A85CAAB42BAC1FB4BABD977C12F72A1A8F2C2D92F44896E1482D761A9B83"
     }
   }
 }
