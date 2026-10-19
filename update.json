@@ -1,10 +1,10 @@
 {
-  "version": "3.19.6",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.6/IrisClient-3.19.6.zip",
-  "sha256": "00BB39749BC599D1B6CD5857D5129256EBCA268D571AC5B4C07DCE25977E43D2",
-  "notes": "- Toggle keys (H / B / Right Shift) only react while controlling the world, never while typing or in a menu.",
+  "version": "3.20.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.20.0/IrisClient-3.20.0.zip",
+  "sha256": "6F19D53E351E9C53AF4613AAF6C7DA50B7E2F4333290C7CF8A11D57CC1FF3879",
+  "notes": "- Texture packs are opt-in now; install the ones you want in Packs & Shaders.\n- New packs: Iris PvP (custom hit/crit sounds) and Iris Totem.\n- In-game Iris menu (Right Shift) redesigned.",
   "mandatory": false,
   "downloads": {
-    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.19.6/IrisClient-3.19.6.zip", "sha256": "00BB39749BC599D1B6CD5857D5129256EBCA268D571AC5B4C07DCE25977E43D2" }
+    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.0/IrisClient-3.20.0.zip", "sha256": "6F19D53E351E9C53AF4613AAF6C7DA50B7E2F4333290C7CF8A11D57CC1FF3879" }
   }
 }
