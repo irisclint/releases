@@ -1,10 +1,10 @@
 {
-  "version": "3.19.5",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.19.5/IrisClient-3.19.5.zip",
-  "sha256": "485D43FCE734098E51506F9CEBAFB321B13980E852ADCB71FFC6522D982814E1",
-  "notes": "- In-game Iris menu: press Right Shift to toggle Invisible Hands and FullBright from a clean menu.\n- Direct keys still work (H / B).",
+  "version": "3.19.6",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.19.6/IrisClient-3.19.6.zip",
+  "sha256": "00BB39749BC599D1B6CD5857D5129256EBCA268D571AC5B4C07DCE25977E43D2",
+  "notes": "- Toggle keys (H / B / Right Shift) only react while controlling the world, never while typing or in a menu.",
   "mandatory": false,
   "downloads": {
-    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.19.5/IrisClient-3.19.5.zip", "sha256": "485D43FCE734098E51506F9CEBAFB321B13980E852ADCB71FFC6522D982814E1" }
+    "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.19.6/IrisClient-3.19.6.zip", "sha256": "00BB39749BC599D1B6CD5857D5129256EBCA268D571AC5B4C07DCE25977E43D2" }
   }
 }
