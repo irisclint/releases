@@ -1,8 +1,8 @@
 {
-  "version": "3.20.6",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.6/IrisClient-3.20.6.zip",
-  "sha256": "05DD804B060E80FB6C179F815F799BE48D3BCF707A05FF562F6EF5AECEAAD4EF",
-  "notes": "- Setup auto-disables duplicate mods (e.g. multiple fabric-api), a common crash cause.",
+  "version": "4.0.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v4.0.0/IrisClient-4.0.0.zip",
+  "sha256": "E6EC97687A1B1D8E18D60F3C8ADF198718250285537FB3E67458772020B67EB7",
+  "notes": "- Iris Client fully rebuilt on a new native stack (Rust + TypeScript). Smaller, faster, lower memory. Per-instance mods/packs/shaders, multi-account, capes, and one-click Iris Setup (invisible hands, FullBright, motion blur, in-game menu on Right Shift).",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.6/IrisClient-3.20.6.zip", "sha256": "05DD804B060E80FB6C179F815F799BE48D3BCF707A05FF562F6EF5AECEAAD4EF" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v4.0.0/IrisClient-4.0.0.zip", "sha256": "E6EC97687A1B1D8E18D60F3C8ADF198718250285537FB3E67458772020B67EB7" } }
 }
