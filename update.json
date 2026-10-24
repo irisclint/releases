@@ -1,8 +1,8 @@
 {
   "version": "4.0.0",
   "url": "https://github.com/irisclint/releases/releases/download/v4.0.0/IrisClient-4.0.0.zip",
-  "sha256": "E6EC97687A1B1D8E18D60F3C8ADF198718250285537FB3E67458772020B67EB7",
-  "notes": "- Iris Client fully rebuilt on a new native stack (Rust + TypeScript). Smaller, faster, lower memory. Per-instance mods/packs/shaders, multi-account, capes, and one-click Iris Setup (invisible hands, FullBright, motion blur, in-game menu on Right Shift).",
+  "sha256": "2B9808F65395D3332FC6DE657F8D520D88D7C549AD2953371CEA849B6C1FF130",
+  "notes": "- Iris Client fully rebuilt on a new native stack (Rust + TypeScript). Smaller, faster, lower memory. Per-instance mods/packs/shaders, multi-account, capes, built-in auto-updater, and one-click Iris Setup (invisible hands, FullBright, motion blur, in-game menu on Right Shift).",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v4.0.0/IrisClient-4.0.0.zip", "sha256": "E6EC97687A1B1D8E18D60F3C8ADF198718250285537FB3E67458772020B67EB7" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v4.0.0/IrisClient-4.0.0.zip", "sha256": "2B9808F65395D3332FC6DE657F8D520D88D7C549AD2953371CEA849B6C1FF130" } }
 }
