@@ -1,8 +1,8 @@
 {
-  "version": "3.20.6",
-  "url": "https://github.com/irisclint/releases/releases/download/v3.20.6/IrisClient-3.20.6.zip",
-  "sha256": "05DD804B060E80FB6C179F815F799BE48D3BCF707A05FF562F6EF5AECEAAD4EF",
-  "notes": "- Setup auto-disables duplicate mods (e.g. multiple fabric-api), a common crash cause.",
+  "version": "3.21.0",
+  "url": "https://github.com/irisclint/releases/releases/download/v3.21.0/IrisClient-3.21.0.zip",
+  "sha256": "369CE9351C7D23F73D9B3847D165FCE41EDF39008F5A1D1B899249CEF4EDD7BB",
+  "notes": "- New: the Console now diagnoses crashes - it flags the exact mod file that broke the game in red, with one-click Update/Replace, Disable or Delete. Catches duplicate mods, wrong-version mods and mixin crashes.\n- Polish: animated window intro and a glowing PLAY button.",
   "mandatory": false,
-  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.20.6/IrisClient-3.20.6.zip", "sha256": "05DD804B060E80FB6C179F815F799BE48D3BCF707A05FF562F6EF5AECEAAD4EF" } }
+  "downloads": { "win-x64": { "url": "https://github.com/irisclint/releases/releases/download/v3.21.0/IrisClient-3.21.0.zip", "sha256": "369CE9351C7D23F73D9B3847D165FCE41EDF39008F5A1D1B899249CEF4EDD7BB" } }
 }
